@@ -5,7 +5,7 @@
 /gridfs
 /bigchaindb
 /.pnp
-/Pekachain/modules/*.js
+/Pekachain/modules/*.js*
 .pnp.js
 
 # testing
