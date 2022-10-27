@@ -4,7 +4,7 @@ This is the backend implementation for Pekaboom Blockchain, using BigchainDB, Te
 
 - Website: https://pekaboom.com
 - BigchainDB: https://bigchaindb.pekaboom.com
-- Tendermint: https://server.pekaboom.com:26657
+- Tendermint: http://server.pekaboom.com:26657
 
 ## Connecting new peers
 
