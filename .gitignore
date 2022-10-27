@@ -2,10 +2,7 @@
 
 # dependencies
 /node_modules
-/gridfs
-/bigchaindb
 /.pnp
-/Pekachain/modules/*.js*
 .pnp.js
 
 # testing
