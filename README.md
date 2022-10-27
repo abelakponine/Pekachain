@@ -6,7 +6,7 @@ This is the backend implementation for Pekaboom Blockchain, using BigchainDB, Te
 - BigchainDB: https://bigchaindb.pekaboom.com
 - Tendermint: https://server.pekaboom.com:26657
 
-## ==== Connecting new peers ====
+## Connecting new peers
 
 Your p2p setup in config.toml should look like this:
 
@@ -26,7 +26,7 @@ seeds = "cdaac165ec5d1599aea3e6ea62643d87f7f8ef52@test123.com:26656, 46aac165ec5
 
 4. Run <code>tendermint unsafe_reset_all</code> then <code>tendermint node</code> again after those steps, it should work
 
-## ==== Fix new peer node connection already synced ====
+## Fix new peer node connection already synced
 
 I was having this same issue when adding new peers but was able to solve it with the following steps.
 
