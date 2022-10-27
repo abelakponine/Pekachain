@@ -2,7 +2,7 @@
 ### Developer: [Abel Akponine](https://github.com/abelakponine)
 This is the backend implementation for Pekaboom Blockchain, using BigchainDB, Tendermint and MongoDB for the blockchain server
 
-- Website: https:// pekaboom.com
+- Website: https://pekaboom.com
 - BigchainDB: https://bigchaindb.pekaboom.com
 - Tendermint: https://server.pekaboom.com:26657
 
